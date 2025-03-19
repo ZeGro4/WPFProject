@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\basket.png" />
+    <None Remove="Images\basket.svg" />
+    <None Remove="Images\exit.png" />
+    <None Remove="Images\logo.ico" />
+    <None Remove="Images\mycursor.cur" />
+    <None Remove="Images\no_photo.png" />
+    <None Remove="Images\user-profile.png" />
+    <None Remove="View\logo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\basket.png" />
+    <Resource Include="Images\exit.png" />
+    <Resource Include="Images\logo.ico" />
+    <Resource Include="Images\mycursor.cur" />
+    <Resource Include="Images\no_photo.png" />
+    <Resource Include="Images\user-profile.png" />
+    <Resource Include="Images\logo.jpg" />
+  </ItemGroup>
+
+</Project>

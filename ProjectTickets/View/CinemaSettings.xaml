@@ -1,0 +1,36 @@
+﻿<Window x:Class="ProjectTickets.View.CinemaSettings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectTickets.View"
+        mc:Ignorable="d"
+          Icon="../Images/logo.ico"
+        Title="CinemaSettings" Height="650" Width="400">
+    <Grid>
+        <StackPanel >
+            <Label Content="Название кинотеатра" Width="230" />
+            <TextBox x:Name="namecinema" Style="{DynamicResource txtbox_search}"/>
+            <Label Content="Адрес" Width="230" />
+            <TextBox x:Name="addresscinema" Style="{DynamicResource txtbox_search}"/>
+            <Label Content="Владелец" Width="230" />
+            <TextBox x:Name="ownercinema" Style="{DynamicResource txtbox_search}"/>
+            <Label Content="Количество залов и вместимость" Width="230" />
+            <WrapPanel HorizontalAlignment="Center" >
+                <ComboBox x:Name="HallCountComboBox" 
+                      Width="60">
+                </ComboBox>
+                <ComboBox  x:Name="HallComboBox" Width="150">
+
+                </ComboBox>
+            </WrapPanel>
+            <Label Content="Изображение" Width="230" />
+            <Image Name="imgDisplay" Margin="10" Stretch="Uniform" MaxHeight="150"/>
+            <Button Name="btnLoadImage" Content="Загрузить изображение" Click="btnLoadImage_Click" Width="150" Height="30" Margin="10"/>
+
+            <Button x:Name="bt_save" Content="Сохранить" Click="bt_save_Click" Style="{DynamicResource bt_search}" Margin="10" Width="200"/>
+            <Button x:Name="bt_back" Content="Назад" Click="bt_back_Click" Style="{DynamicResource bt_search }" Margin="10"  Width="200"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

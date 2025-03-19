@@ -1,0 +1,53 @@
+﻿<Window x:Class="ProjectTickets.View.TicketsMap"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectTickets.View"
+        mc:Ignorable="d"
+          Icon="../Images/logo.ico"
+        Title="TicketsMap" Height="450" Width="800"  Background="#023047">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="LightBlue"/>
+            <Setter Property="Margin" Value="55"/>
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+  
+    </Window.Resources>
+    
+    <StackPanel>
+        <Grid Background="#14213d">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock  Grid.Column="0" Foreground="White" FontSize="16"  VerticalAlignment="Center" Margin="10" >Билеты</TextBlock>
+
+            <Button x:Name="cBack" Style="{DynamicResource bt_search}" Click="btBack_Click" Width="100" Content="Назад" Grid.Column="1" Margin="10"/>
+            
+        </Grid>
+       
+
+        <Grid >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Button x:Name="btBack" Content="Экран" Foreground ="White" FontWeight="Bold" Background="#219ebc" FontSize="18" Grid.Column="1" Grid.Row="0" />
+
+            <WrapPanel x:Name="wrappanel" Grid.Column="1" Grid.Row="1"  >
+            </WrapPanel>
+
+
+        </Grid>
+    </StackPanel>
+</Window>

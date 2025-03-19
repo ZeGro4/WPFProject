@@ -1,0 +1,28 @@
+﻿<Window x:Class="ProjectTickets.View.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectTickets.View"
+        mc:Ignorable="d"
+        Icon="../Images/logo.ico"
+        Title="Authorization" Height="650" Width="500">
+    <Window.Resources>
+        
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <TextBlock HorizontalAlignment="Center" FontSize="32">Вход</TextBlock>
+            <Label Content="Имя" Margin="10 0" Height="28" Width="450" FontStyle="Italic" Opacity="0.5"/>
+            <TextBox x:Name="txt_login"  Style="{DynamicResource txtbox_enter}" />
+            <Label Content="Пароль" Margin="10 0" Height="28" Width="450" Padding="0 5px" FontStyle="Italic" Opacity="0.5"/>
+            <PasswordBox x:Name="txt_password" Style="{StaticResource passwordboxtest}" />
+            <Button x:Name="bt_enter" Content="Войти" Click="Button_ClickEnter"
+                    Style="{DynamicResource bt_enter}"
+                    />
+            <Button x:Name="bt_register" Content="Регистрация" Click="bt_register_Click"
+               Style="{DynamicResource bt_enter}"
+                     />
+        </StackPanel>
+    </Grid>
+</Window>

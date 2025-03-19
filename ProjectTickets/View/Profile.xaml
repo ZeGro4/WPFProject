@@ -1,0 +1,63 @@
+﻿<Window x:Class="ProjectTickets.View.Profile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectTickets.View"
+        mc:Ignorable="d"
+        Title="Profile" Height="450" Width="800">
+    <StackPanel>
+        <Grid Background="#14213d">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Foreground="White" FontSize="16" VerticalAlignment="Center" Margin="10">Профиль</TextBlock>
+
+            <Button x:Name="cBack" Style="{DynamicResource bt_search}" Click="cBack_Click" Width="100" Content="Назад" Grid.Column="1" Margin="10"/>
+            <Button x:Name="ProfileButton" Click="BasketButton_Click" Width="70" Height="50" Background="Transparent" BorderBrush="Transparent" Margin="5" Grid.Column="2">
+                <Image Width="70" Height="50" Source="../Images/basket.png" />
+            </Button>
+            <Button x:Name="ExitButton" Click="ExitButton_Click" Width="70" Height="50" Background="Transparent" BorderBrush="Transparent" Margin="5" Grid.Column="3">
+                <Image Width="70" Height="50" Source="../Images/exit.png" />
+            </Button>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="1" Margin="10">
+                <TextBlock Text="Name:" FontWeight="Bold" />
+                <TextBox Text="{Binding NameUser}" IsReadOnly="True" Height="30" Margin="0,0,0,20" TextChanged="TextBox_TextChanged"/>
+
+                <TextBlock Text="Email:" FontWeight="Bold"/>
+                <TextBox Text="{Binding Email}" IsReadOnly="True" Height="30" Margin="0,0,0,10"/>
+
+                <TextBlock Text="Age:" FontWeight="Bold"/>
+                <TextBox Text="{Binding Age}" IsReadOnly="True" Height="30" Margin="0,0,0,20"/>
+            </StackPanel>
+
+            <Image Grid.Column="0" Source="../Images/no_photo.png" Stretch="Uniform" Margin="10"/>
+        </Grid>
+
+        <ScrollViewer Height="250">
+            <!-- Задайте фиксированную высоту для ScrollViewer -->
+            <DataGrid x:Name="dataGrid"  
+                      AutoGenerateColumns="False"
+                      IsReadOnly="True"
+                      Style="{StaticResource StyledDataGrid}" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="NameFilm" Binding="{Binding NameFilm}" />
+                    <DataGridTextColumn Header="Place" Binding="{Binding Place}" />
+                    <DataGridTextColumn Header="Price" Binding="{Binding Price}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </ScrollViewer>
+    </StackPanel>
+</Window>

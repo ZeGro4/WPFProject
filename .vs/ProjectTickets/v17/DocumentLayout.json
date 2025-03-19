@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\filmsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\filmsettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\filmsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\filmsettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\model\\cinemahall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\model\\cinemahall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\orderslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\orderslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\ticketsmap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\ticketsmap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\ticketsmap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\ticketsmap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view-model\\ticketsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view-model\\ticketsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\orderslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\orderslist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view-model\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view-model\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\cinemapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\cinemapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|d:\\labs 3k1\\\u043A\u0443\u0440\u0441\u0430\u0447\\tickets\\projecttickets\\projecttickets\\view\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0524E083-C5EF-4CDF-ADC2-78B172FA06D3}|ProjectTickets\\ProjectTickets.csproj|solutionrelative:projecttickets\\view\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersList.xaml",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\OrdersList.xaml",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\OrdersList.xaml",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\OrdersList.xaml",
+              "RelativeToolTip": "ProjectTickets\\View\\OrdersList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T16:48:42.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketsMap.xaml",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\TicketsMap.xaml",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\TicketsMap.xaml",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\TicketsMap.xaml",
+              "RelativeToolTip": "ProjectTickets\\View\\TicketsMap.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T16:48:19.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersList.xaml.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\OrdersList.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\OrdersList.xaml.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\OrdersList.xaml.cs",
+              "RelativeToolTip": "ProjectTickets\\View\\OrdersList.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:31:10.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketsMap.xaml.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\TicketsMap.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\TicketsMap.xaml.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\TicketsMap.xaml.cs",
+              "RelativeToolTip": "ProjectTickets\\View\\TicketsMap.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:15:38.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmSettings.xaml.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\FilmSettings.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\FilmSettings.xaml.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\FilmSettings.xaml.cs",
+              "RelativeToolTip": "ProjectTickets\\View\\FilmSettings.xaml.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAowNQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:21:57.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CinemaPage.xaml",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\CinemaPage.xaml",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\CinemaPage.xaml",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\CinemaPage.xaml",
+              "RelativeToolTip": "ProjectTickets\\View\\CinemaPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T19:20:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\Registration.xaml.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\Registration.xaml.cs",
+              "RelativeToolTip": "ProjectTickets\\View\\Registration.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:13:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPanel.xaml",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\AdminPanel.xaml",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\AdminPanel.xaml",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\AdminPanel.xaml",
+              "RelativeToolTip": "ProjectTickets\\View\\AdminPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T16:54:07.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CinemaHall.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\Model\\CinemaHall.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\Model\\CinemaHall.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\Model\\CinemaHall.cs",
+              "RelativeToolTip": "ProjectTickets\\Model\\CinemaHall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:47:29.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmSettings.xaml",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\FilmSettings.xaml",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\FilmSettings.xaml",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\FilmSettings.xaml",
+              "RelativeToolTip": "ProjectTickets\\View\\FilmSettings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T15:18:46.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\Registration.xaml",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\Registration.xaml",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\Registration.xaml",
+              "RelativeToolTip": "ProjectTickets\\View\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T19:13:20.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\View\\Authorization.xaml.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View\\Authorization.xaml.cs",
+              "RelativeToolTip": "ProjectTickets\\View\\Authorization.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:10:46.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketsManager.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View-Model\\TicketsManager.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\View-Model\\TicketsManager.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View-Model\\TicketsManager.cs",
+              "RelativeToolTip": "ProjectTickets\\View-Model\\TicketsManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwK0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:46:12.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View-Model\\DataManager.cs",
+              "RelativeDocumentMoniker": "ProjectTickets\\View-Model\\DataManager.cs",
+              "ToolTip": "D:\\Labs 3k1\\\u041A\u0443\u0440\u0441\u0430\u0447\\Tickets\\ProjectTickets\\ProjectTickets\\View-Model\\DataManager.cs",
+              "RelativeToolTip": "ProjectTickets\\View-Model\\DataManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:41:39.007Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
